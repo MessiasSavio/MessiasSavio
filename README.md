@@ -1,15 +1,52 @@
-**GitHub Profile: MessiasSavio**
+# Messias Sávio
 
-👋 Hi, I'm @MessiasSavio, a tech enthusiast and passionate developer.
+## Conecte-se comigo!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/messiassavio/)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:saviochavesadm@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MessiasSavio)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/messias_savio/)
 
-👀 I'm interested in exploring the vast world of technology, with a focus on Ba (Business Analytics?)—leveraging data to drive informed decisions.
+## Habilidades:
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![PL](https://img.shields.io/badge/PL%2FSQL-FFFFFF?style=for-the-badge&logo=oracle&logoColor=FF0000&labelColor=FFFFFF&color=FF0000)
+## Profissão e Educação
+- **Profissão:** Analista de Produção
+- **Educação:** Superior em Administração de Empresas, Inglês Avançado
 
-🌱 I’m currently learning and expanding my skills in various tech domains to stay on the cutting edge.
+## Experiência Profissional
+Atualmente, atuo como Analista de Produção, sendo responsável por:
+- Criação de aplicativos no code
+- Desenvolvimento de Business Intelligence (BIs)
+- Construção de dados para análise
 
-💞️ I’m open to collaboration on exciting projects that align with my interests and expertise.
+## Habilidades
+- **Responsável:** Comprometido e confiável.
+- **Liderança:** Capacidade de liderar equipes de forma eficaz.
+- **Otimização:** Busca constante por melhorias e eficiência.
+- **Organização:** Habilidade em organizar tarefas e projetos.
+- **Empenho:** Dedicado e determinado no alcance de metas.
+- **Trabalho em Equipe:** Colaboração efetiva para alcançar objetivos comuns.
 
-📫 Let's connect! Reach me through saviochavesadm@gmail.com . Excited to explore new possibilities and contribute to innovative projects.
+## Interesses e Hobbies
+- Programação e desenvolvimento.
+- Jogos.
 
+## Metas e Aspirações
+Tenho como objetivo me tornar um programador full-stack, explorando diferentes áreas do desenvolvimento de software.
+
+## Personalidade
+- **Paciente:** Abordagem tranquila diante dos desafios.
+
+## Conquistas Notáveis
+Destaco a criação de Business Intelligence (BIs) para tomada de decisão, contribuindo significativamente para o processo de análise e planejamento.
+
+## Citação Favorita
+"Desistir não faz parte do meu jeito ninja!"
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MessiasSavio&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MessiasSavio&theme=neon-dark&background=000&border=30A3DC&dates=4169e1)](https://git.io/streak-stats)
+ ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MessiasSavio&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 <!---
 MessiasSavio/MessiasSavio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
