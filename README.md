@@ -42,8 +42,9 @@ Tenho como objetivo me tornar um programador full-stack, explorando diferentes �
 Destaco a criação de Business Intelligence (BIs) para tomada de decisão, contribuindo significativamente para o processo de análise e planejamento.
 
 ## Citação Favorita
-"Desistir não faz parte do meu jeito ninja!"
 
+ !["Desistir não faz parte do meu jeito ninja!"]([imagem](https://pbs.twimg.com/media/EauZ2jdX0AQOWsF.jpg)) 
+ 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MessiasSavio&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=MessiasSavio&theme=neon-dark&background=000&border=30A3DC&dates=4169e1)](https://git.io/streak-stats)
  ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MessiasSavio&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
