@@ -13,6 +13,8 @@
 ## Profession and Education
 - **Profession:** Production Analyst
 - **Education:** Bachelor’s degree in Business Administration, Advanced English
+- **STUDYNG:** Data Science With Focus On A.I
+
 
 ## Professional Experience
 ### Currently, I work as a Production Analyst, responsible for:
