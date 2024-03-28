@@ -18,7 +18,7 @@
 
 ## Professional Experience
 ### Currently, I work as a Production Analyst, responsible for:
-- Creating applications in code
+- Creating applications  NOCODE (AppSheet)
 - Developing Business Intelligence (BIs)
 - Constructing data for analysis 
 
