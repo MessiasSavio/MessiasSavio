@@ -8,7 +8,7 @@
 
 ## Skills:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![JAVA](https://img.shields.io/badge/JAVA-CC342D?style=for-the-badge&logo=JAVA&logoColor=white)
 ![PL](https://img.shields.io/badge/PL%2FSQL-FFFFFF?style=for-the-badge&logo=oracle&logoColor=FF0000&labelColor=FFFFFF&color=FF0000)
 ## Profession and Education
 - **Profession:** Production Analyst
