@@ -6,19 +6,23 @@
 
 ## 🎯 Sobre Mim
 
-Sou um profissional apaixonado por **Inteligência Artificial**, **Engenharia de Dados** e **Desenvolvimento Full-Stack**. Atualmente trabalho como **Analista de Produção**, criando soluções inovadoras através de aplicações No-Code (AppSheet) e Business Intelligence (BI), enquanto desenvolvo continuamente minhas habilidades em **Data Science com foco em IA**.
+Sou um profissional apaixonado por **Inteligência Artificial**, **Engenharia de Dados** e **Desenvolvimento Full-Stack**. Atualmente trabalho como **Analista de Dados**, transformando dados brutos em insights estratégicos através de análises avançadas, visualizações e modelos preditivos, enquanto desenvolvo continuamente minhas habilidades em **Data Science com foco em IA**.
 
-Com mais de **50+ certificações** em diversas áreas de tecnologia e **3+ anos de experiência**, estou comprometido em entregar soluções de alta qualidade e impacto.
+Com mais de **50+ certificações** em diversas áreas de tecnologia e **3+ anos de experiência**, estou comprometido em entregar soluções de alto impacto baseadas em dados.
 
 ---
 
 ## 💼 Experiência Profissional
 
-### **Analista de Produção** (Atual)
-- 🚀 Desenvolvimento de aplicações **No-Code (AppSheet)**
-- 📊 Construção de **Business Intelligence (BI)** para tomada de decisão
-- 🔧 Processamento e organização de dados para análise
-- 📈 Otimização de processos e workflows
+### **Analista de Dados** (Atual)
+- 📊 Análise exploratória de dados (EDA) para identificação de insights estratégicos
+- 🔍 Limpeza, transformação e preparação de dados para análise
+- 📈 Criação de dashboards e visualizações em BI (Power BI, Tableau)
+- 🎯 Desenvolvimento de relatórios automatizados para stakeholders
+- 🔄 Construção de pipelines ETL para integração de múltiplas fontes de dados
+- 🤖 Implementação de modelos preditivos para otimização de processos
+- 💡 Recomendações baseadas em dados para tomada de decisão
+- 🛠️ SQL avançado e Python para análise de grandes volumes de dados
 
 ---
 
@@ -133,6 +137,8 @@ Com mais de **50+ certificações** em diversas áreas de tecnologia e **3+ anos
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MessiasSavio&theme=tokyonight&bg_color=0d1117&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&include_all_commits=true&count_private=true)
+
+[![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=MessiasSavio&theme=tokyo-night&bg_color=0d1117&color=30A3DC&line=30A3DC&point=E94D5F&area=true)](https://github.com/MessiasSavio)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=MessiasSavio&theme=tokyonight&background=0d1117&border=30A3DC&dates=4169e1)](https://git.io/streak-stats)
 
